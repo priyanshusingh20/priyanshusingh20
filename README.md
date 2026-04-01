@@ -80,9 +80,11 @@
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh20&theme=onedark" />
-</p>
+
+* 🚀 Built multiple projects using Spring Boot
+* 💻 Active GitHub contributor
+* 🌱 Continuously learning new technologies
+
 
 ---
 
