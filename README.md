@@ -81,7 +81,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh20&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanshusingh20&theme=onedark" />
 </p>
 
 ---
